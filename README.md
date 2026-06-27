@@ -84,18 +84,6 @@ Final Excel output formatted for accounting system upload. The automation reduce
 
 Supporting file used to help match, clear, or reconcile processed invoice activity after upload.
 
-## Privacy Note
-
-This repository is an anonymized portfolio case study. Vendor names, client/company details, accounting system information, source files, and proprietary data have been removed or replaced.
-
-## Project Status
-
-Portfolio case study. Source code is not included due to employer confidentiality and proprietary system details. Screenshots and documentation are provided to demonstrate the workflow, business problem, automation design, and finance process improvement.
-
-## Professional Context
-
-This project reflects my experience combining accounting operations with automation. It demonstrates how Python and Excel-based workflows can improve finance processes, reduce repetitive work, and create cleaner data for accounting teams.
-
 ---
 
 # Business Impact
@@ -139,6 +127,18 @@ Recurring financial processes benefit from consistency more than speed alone. Cr
 ### Protect Data Quality
 
 Financial data requires accuracy. The workflow emphasized predictable formatting and structured output so accounting staff could review and import invoice information with confidence.
+
+## Privacy Note
+
+This repository is an anonymized portfolio case study. Vendor names, client/company details, accounting system information, source files, and proprietary data have been removed or replaced.
+
+## Project Status
+
+Portfolio case study. Source code is not included due to employer confidentiality and proprietary system details. Screenshots and documentation are provided to demonstrate the workflow, business problem, automation design, and finance process improvement.
+
+## Professional Context
+
+This project reflects my experience combining accounting operations with automation. It demonstrates how Python and Excel-based workflows can improve finance processes, reduce repetitive work, and create cleaner data for accounting teams.
 
 ### What I Would Improve Today
 
