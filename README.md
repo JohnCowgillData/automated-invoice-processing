@@ -229,4 +229,4 @@ The repository focuses on documenting the solution architecture, workflow design
 
 ## Professional Context
 
-This project reflects my approach to finance automation: understand the accounting workflow, standardize the underlying data, automate repetitive tasks, and produce reliable outputs that reduce manual effort while improving consistency and data quality.
+This project reflects my approach to finance automation: first understand the accounting workflow, standardize the underlying data, automate repetitive tasks, and produce reliable outputs that reduce manual effort while improving consistency and data quality.
