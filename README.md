@@ -6,6 +6,26 @@ This project documents an automated accounts payable workflow that converts vend
 
 The workflow was designed to reduce manual invoice entry, standardize vendor-specific invoice data, and create a repeatable process for preparing invoice and clearing files.
 
+---
+
+# Business Impact
+
+This automation transformed a repetitive accounts payable workflow into a standardized, repeatable process.
+
+### Impact
+
+* Reduced manual invoice entry by automatically extracting invoice data from PDF documents.
+* Standardized vendor invoice information before accounting system import.
+* Produced consistent upload-ready Excel files for downstream accounting processes.
+* Reduced opportunities for manual data entry errors.
+* Improved processing speed for recurring vendor invoices.
+* Created a repeatable workflow that could be executed consistently regardless of the user.
+* Reduced time spent preparing invoice and clearing files for import.
+
+Although exact processing times varied depending on invoice volume, the automation significantly reduced manual effort while improving consistency across the accounts payable process.
+
+---
+
 ## Case Study Note
 
 This repository is presented as an anonymized portfolio case study. The original source code is not included because it was created inside a prior employer’s environment and contained proprietary business logic, file paths, vendor information, and accounting system details.
@@ -40,19 +60,7 @@ A supporting automation also generated matching and clearing files, helping comp
 6. Supporting clearing/matching files are created.
 7. The accounting team reviews exceptions and completes the upload process.
 
-## Skills Demonstrated
-
-* Python automation
-* PDF data extraction
-* Excel file generation
-* Accounts payable workflow design
-* Data cleaning and transformation
-* Financial operations automation
-* Process improvement
-* Accounting system upload preparation
-* Error reduction through repeatable workflows
-
-## Screenshots
+## Project Gallery
 
 ### 1. Source Invoice PDF
 
@@ -86,21 +94,28 @@ Supporting file used to help match, clear, or reconcile processed invoice activi
 
 ---
 
-# Business Impact
+## Technologies Used
 
-This automation transformed a repetitive accounts payable workflow into a standardized, repeatable process.
+- Python
+- Microsoft Excel
+- PDF Data Extraction
+- Data Transformation
+- Workflow Automation
+- Financial Reporting
 
-### Impact
+---
 
-* Reduced manual invoice entry by automatically extracting invoice data from PDF documents.
-* Standardized vendor invoice information before accounting system import.
-* Produced consistent upload-ready Excel files for downstream accounting processes.
-* Reduced opportunities for manual data entry errors.
-* Improved processing speed for recurring vendor invoices.
-* Created a repeatable workflow that could be executed consistently regardless of the user.
-* Reduced time spent preparing invoice and clearing files for import.
+## Skills Demonstrated
 
-Although exact processing times varied depending on invoice volume, the automation significantly reduced manual effort while improving consistency across the accounts payable process.
+* Python automation
+* PDF data extraction
+* Excel file generation
+* Accounts payable workflow design
+* Data cleaning and transformation
+* Financial operations automation
+* Process improvement
+* Accounting system upload preparation
+* Error reduction through repeatable workflows
 
 ---
 
@@ -128,18 +143,6 @@ Recurring financial processes benefit from consistency more than speed alone. Cr
 
 Financial data requires accuracy. The workflow emphasized predictable formatting and structured output so accounting staff could review and import invoice information with confidence.
 
-## Privacy Note
-
-This repository is an anonymized portfolio case study. Vendor names, client/company details, accounting system information, source files, and proprietary data have been removed or replaced.
-
-## Project Status
-
-Portfolio case study. Source code is not included due to employer confidentiality and proprietary system details. Screenshots and documentation are provided to demonstrate the workflow, business problem, automation design, and finance process improvement.
-
-## Professional Context
-
-This project demonstrates my approach to solving business problems through automation. Rather than automating a single task, the solution transformed a repetitive accounts payable workflow into a structured, repeatable process that reduced manual effort while improving consistency and data quality.
-
 ---
 
 ### What I Would Improve Today
@@ -153,6 +156,20 @@ If I were rebuilding this project today, I would:
 * Generate detailed processing logs and audit reports.
 * Integrate directly with ERP or accounting system APIs where available instead of producing intermediate Excel files.
 * Incorporate AI-assisted document understanding to improve handling of previously unseen invoice formats.
+
+---
+
+## Privacy Note
+
+This repository is an anonymized portfolio case study. Vendor names, client/company details, accounting system information, source files, and proprietary data have been removed or replaced.
+
+## Project Status
+
+Portfolio case study. Source code is not included due to employer confidentiality and proprietary system details. Screenshots and documentation are provided to demonstrate the workflow, business problem, automation design, and finance process improvement.
+
+## Professional Context
+
+This project demonstrates my approach to solving business problems through automation. Rather than automating a single task, the solution transformed a repetitive accounts payable workflow into a structured, repeatable process that reduced manual effort while improving consistency and data quality.
 
 ---
 
