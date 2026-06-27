@@ -52,11 +52,7 @@ A recurring accounts payable process required manual review of vendor PDF invoic
 
 This created several problems:
 
-* Repetitive manual entry
-* Increased risk of data entry errors
-* Inconsistent spreadsheet formatting
-* Time-consuming preparation of upload-ready files
-* Extra work required to match and clear processed invoices
+Beyond the time investment, the manual process introduced opportunities for inconsistent formatting and increased the effort required to validate invoice data before import.
 
 ## Solution
 
