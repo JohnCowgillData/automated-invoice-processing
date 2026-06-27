@@ -161,7 +161,7 @@ Financial data requires accuracy. The workflow emphasized predictable formatting
 
 ---
 
-### What I Would Improve Today
+### Future Enhancements
 
 If I were rebuilding this project today, I would:
 
