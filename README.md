@@ -1,5 +1,7 @@
 # Automated Invoice Processing
 
+!{AP_Cover_Image}(screenshots/ap-cover-image.png)
+
 **Portfolio Case Study**
 
 This repository documents a finance automation project developed in a previous professional role.
