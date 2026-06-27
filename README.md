@@ -62,25 +62,25 @@ Example of the source PDF invoice format used as the starting point for the auto
 
 ### 2. Extracted Invoice Data
 
-![Extracted invoice data](automatedinvoice2.png)
+![Extracted invoice data](screenshots/automatedinvoice2.png)
 
 Structured invoice data after extraction from the PDF source. This step converts unstructured invoice information into a format that can be cleaned, reviewed, and transformed.
 
 ### 3. Cleaned Processing File
 
-![Cleaned processing file](automatedinvoice3.png)
+![Cleaned processing file](screenshots/automatedinvoice3.png)
 
 Intermediate processing file showing standardized fields, cleaned values, and prepared invoice data before final upload formatting.
 
 ### 4. Upload-Ready Excel Output
 
-![Upload-ready Excel output](automatedinvoice4.png)
+![Upload-ready Excel output](sscreenshots/automatedinvoice4.png)
 
 Final Excel output formatted for accounting system upload. The automation reduces manual entry by producing a file that follows the required upload structure.
 
 ### 5. Matching and Clearing Support File
 
-![Matching and clearing support file](automatedinvoice5.png)
+![Matching and clearing support file](screenshots/automatedinvoice5.png)
 
 Supporting file used to help match, clear, or reconcile processed invoice activity after upload.
 
