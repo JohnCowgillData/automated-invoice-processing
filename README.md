@@ -12,6 +12,20 @@ The workflow was designed to reduce manual invoice entry, standardize vendor-spe
 
 ---
 
+## Project Summary
+
+| Category                 | Details                                             |
+| ------------------------ | --------------------------------------------------- |
+| **Industry**             | Accounting / Finance                                |
+| **Business Function**    | Accounts Payable                                    |
+| **Project Type**         | Workflow Automation                                 |
+| **Primary Technologies** | Python, Microsoft Excel                             |
+| **Key Outcome**          | Automated invoice extraction and upload preparation |
+| **Repository Type**      | Portfolio Case Study                                |
+| **Source Code**          | Not included due to employer confidentiality        |
+
+---
+
 # Business Impact
 
 This automation transformed a repetitive accounts payable workflow into a standardized, repeatable process.
