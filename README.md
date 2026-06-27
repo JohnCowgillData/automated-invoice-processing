@@ -56,9 +56,9 @@ Beyond the time investment, the manual process introduced opportunities for inco
 
 ## Solution
 
-I built an automated workflow that extracts invoice information from PDF files, transforms the data into a structured format, and generates Excel files ready for upload into the accounting system.
+I designed and developed an automated workflow that extracts invoice information from PDF files, transforms the data into a structured format, and generates Excel files ready for import into the accounting system.
 
-A supporting automation also generated matching and clearing files, helping complete the full AP processing cycle.
+---
 
 ## Solution Architecture
 
