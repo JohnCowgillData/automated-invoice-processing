@@ -6,7 +6,7 @@ This repository documents a finance automation project developed in a previous p
 
 ## Overview
 
-This project documents an automated accounts payable workflow that converts vendor PDF invoices into upload-ready Excel files for an accounting system.
+This project documents an automated accounts payable workflow that extracts data from vendor PDF invoices, standardizes the information, and generates upload-ready Excel files for an accounting system.
 
 The workflow was designed to reduce manual invoice entry, standardize vendor-specific invoice data, and create a repeatable process for preparing invoice and clearing files.
 
