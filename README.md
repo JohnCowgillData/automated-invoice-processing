@@ -52,13 +52,29 @@ A supporting automation also generated matching and clearing files, helping comp
 
 ## Workflow
 
-1. Vendor PDF invoices are collected.
-2. The automation reads and extracts invoice data.
-3. Extracted data is cleaned and standardized.
-4. Required accounting upload fields are generated.
-5. Upload-ready Excel files are produced.
-6. Supporting clearing/matching files are created.
-7. The accounting team reviews exceptions and completes the upload process.
+Vendor PDF
+
+↓
+
+Extract Invoice Data
+
+↓
+
+Standardize Fields
+
+↓
+
+Generate Upload Workbook
+
+↓
+
+Generate Clearing File
+
+↓
+
+Accounting System Import
+
+---
 
 ## Project Gallery
 
