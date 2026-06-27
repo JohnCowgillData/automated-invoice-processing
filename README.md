@@ -1,5 +1,9 @@
 # Automated Invoice Processing
 
+**Portfolio Case Study**
+
+This repository documents a finance automation project developed in a previous professional role. The original implementation contained proprietary code and business logic that cannot be shared publicly. This repository focuses on the workflow, architecture, business value, and technical approach instead.
+
 ## Overview
 
 This project documents an automated accounts payable workflow that converts vendor PDF invoices into upload-ready Excel files for an accounting system.
@@ -25,12 +29,6 @@ This automation transformed a repetitive accounts payable workflow into a standa
 Although exact processing times varied depending on invoice volume, the automation significantly reduced manual effort while improving consistency across the accounts payable process.
 
 ---
-
-## Case Study Note
-
-This repository is presented as an anonymized portfolio case study. The original source code is not included because it was created inside a prior employer’s environment and contained proprietary business logic, file paths, vendor information, and accounting system details.
-
-The purpose of this repository is to document the business problem, workflow design, automation approach, and measurable value of the project while respecting data privacy and employer confidentiality.
 
 ## Business Problem
 
