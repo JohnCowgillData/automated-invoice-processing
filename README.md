@@ -103,7 +103,7 @@ This repository is an anonymized portfolio case study. Vendor names, client/comp
 
 ## Project Status
 
-Portfolio case study. Screenshots and documentation are included to demonstrate the workflow, business problem, and automation approach.
+Portfolio case study. Source code is not included due to employer confidentiality and proprietary system details. Screenshots and documentation are provided to demonstrate the workflow, business problem, automation design, and finance process improvement.
 
 ## Professional Context
 
