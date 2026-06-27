@@ -210,6 +210,7 @@ If I were rebuilding this project today, I would:
 * Generate detailed processing logs and audit reports.
 * Integrate directly with ERP or accounting system APIs where available instead of producing intermediate Excel files.
 * Incorporate AI-assisted document understanding to improve handling of previously unseen invoice formats.
+* Deploy the workflow as a web application or internal service for centralized processing.
 
 ---
 
