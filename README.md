@@ -48,7 +48,7 @@ I built an automated workflow that extracts invoice information from PDF files, 
 
 A supporting automation also generated matching and clearing files, helping complete the full AP processing cycle.
 
-## Workflow
+## Solution Architecture
 
 Vendor PDF
 
