@@ -1,6 +1,6 @@
 # Automated Invoice Processing
 
-!{AP_Cover_Image}(screenshots/ap-cover-image.png)
+[{AP_Cover_Image](screenshots/ap-cover-image.png)
 
 **Portfolio Case Study**
 
