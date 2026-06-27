@@ -116,6 +116,8 @@ Supporting file used to help match, clear, or reconcile processed invoice activi
 - Data Transformation
 - Workflow Automation
 - Financial Reporting
+- Data Validation
+- Process Automation
 
 ---
 
