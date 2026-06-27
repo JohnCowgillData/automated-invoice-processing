@@ -56,7 +56,7 @@ A supporting automation also generated matching and clearing files, helping comp
 
 ### 1. Source Invoice PDF
 
-![Source invoice PDF](automatedinvoice1.png)
+![Source invoice PDF](screenshots\automatedinvoice1.png)
 
 Example of the source PDF invoice format used as the starting point for the automation. The workflow was designed to extract key invoice details from this type of vendor document.
 
