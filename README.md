@@ -6,6 +6,12 @@ This project documents an automated accounts payable workflow that converts vend
 
 The workflow was designed to reduce manual invoice entry, standardize vendor-specific invoice data, and create a repeatable process for preparing invoice and clearing files.
 
+## Case Study Note
+
+This repository is presented as an anonymized portfolio case study. The original source code is not included because it was created inside a prior employer’s environment and contained proprietary business logic, file paths, vendor information, and accounting system details.
+
+The purpose of this repository is to document the business problem, workflow design, automation approach, and measurable value of the project while respecting data privacy and employer confidentiality.
+
 ## Business Problem
 
 A recurring accounts payable process required manual review of vendor PDF invoices, manual data entry, spreadsheet formatting, and follow-up matching/clearing work.
