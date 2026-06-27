@@ -147,6 +147,19 @@ Supporting file used to help match, clear, or reconcile processed invoice activi
 
 ---
 
+## Technical Challenges
+
+Several design challenges were addressed while developing this workflow:
+
+- Extracting structured information from semi-structured PDF documents.
+- Handling varying invoice layouts while maintaining consistent output.
+- Producing accounting-system-compatible Excel files.
+- Preserving data quality throughout the transformation process.
+- Supporting repeatable processing for recurring vendor invoices.
+
+---
+
+
 ## Key Design Decisions & Lessons Learned
 
 Developing this project reinforced several important principles of finance automation.
