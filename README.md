@@ -84,19 +84,6 @@ Final Excel output formatted for accounting system upload. The automation reduce
 
 Supporting file used to help match, clear, or reconcile processed invoice activity after upload.
 
-## Business Impact
-
-This workflow helped convert a manual AP process into a repeatable automation.
-
-Key benefits included:
-
-* Reduced manual invoice entry
-* Improved consistency of upload files
-* Lower risk of data entry errors
-* Faster invoice processing
-* Better support for matching and clearing activity
-* A reusable process for recurring vendor invoices
-
 ## Privacy Note
 
 This repository is an anonymized portfolio case study. Vendor names, client/company details, accounting system information, source files, and proprietary data have been removed or replaced.
