@@ -168,6 +168,7 @@ Several design challenges were addressed while developing this workflow:
 - Producing accounting-system-compatible Excel files.
 - Preserving data quality throughout the transformation process.
 - Supporting repeatable processing for recurring vendor invoices.
+- Designing the workflow to produce consistent outputs despite differences in vendor invoice formatting.
 
 ---
 
