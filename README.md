@@ -2,7 +2,9 @@
 
 **Portfolio Case Study**
 
-This repository documents a finance automation project developed in a previous professional role. The original implementation contained proprietary code and business logic that cannot be shared publicly. This repository focuses on the workflow, architecture, business value, and technical approach instead.
+This repository documents a finance automation project developed in a previous professional role.
+
+The original implementation contained proprietary code and business logic that cannot be shared publicly. This repository focuses on the workflow, architecture, business value, and technical approach while respecting employer confidentiality.
 
 ## Overview
 
