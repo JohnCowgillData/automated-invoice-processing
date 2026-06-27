@@ -123,15 +123,27 @@ Supporting file used to help match, clear, or reconcile processed invoice activi
 
 ## Skills Demonstrated
 
-* Python automation
-* PDF data extraction
-* Excel file generation
-* Accounts payable workflow design
-* Data cleaning and transformation
-* Financial operations automation
-* Process improvement
-* Accounting system upload preparation
-* Error reduction through repeatable workflows
+### Programming
+
+- Python
+
+### Data Engineering
+
+- PDF Parsing
+- Data Cleaning
+- Data Transformation
+
+### Financial Systems
+
+- Accounts Payable
+- Accounting Upload Preparation
+- Invoice Processing
+
+### Automation
+
+- Workflow Automation
+- Process Improvement
+- Exception Reduction
 
 ---
 
