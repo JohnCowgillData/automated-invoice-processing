@@ -206,7 +206,12 @@ This repository is an anonymized portfolio case study. Vendor names, client/comp
 
 ## Project Status
 
-Portfolio case study. Source code is not included due to employer confidentiality and proprietary system details. Screenshots and documentation are provided to demonstrate the workflow, business problem, automation design, and finance process improvement.
+This repository is an engineering case study documenting a production automation solution developed in a previous professional role.
+
+The original implementation cannot be shared publicly because it contains proprietary business logic, employer-owned source code, and confidential accounting workflows.
+
+The repository focuses on documenting the solution architecture, workflow design, business impact, and technical approach while respecting confidentiality obligations.
+
 
 ## Professional Context
 
