@@ -108,7 +108,7 @@ Intermediate processing file showing standardized fields, cleaned values, and pr
 
 ### 4. Upload-Ready Excel Output
 
-![Upload-ready Excel output](sscreenshots/automatedinvoice4.png)
+![Upload-ready Excel output](screenshots/automatedinvoice4.png)
 
 Final Excel output formatted for accounting system upload. The automation reduces manual entry by producing a file that follows the required upload structure.
 
