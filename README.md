@@ -138,7 +138,7 @@ Portfolio case study. Source code is not included due to employer confidentialit
 
 ## Professional Context
 
-This project reflects my experience combining accounting operations with automation. It demonstrates how Python and Excel-based workflows can improve finance processes, reduce repetitive work, and create cleaner data for accounting teams.
+This project demonstrates my approach to solving business problems through automation. Rather than automating a single task, the solution transformed a repetitive accounts payable workflow into a structured, repeatable process that reduced manual effort while improving consistency and data quality.
 
 ### What I Would Improve Today
 
