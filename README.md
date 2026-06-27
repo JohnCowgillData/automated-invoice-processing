@@ -109,6 +109,64 @@ Portfolio case study. Source code is not included due to employer confidentialit
 
 This project reflects my experience combining accounting operations with automation. It demonstrates how Python and Excel-based workflows can improve finance processes, reduce repetitive work, and create cleaner data for accounting teams.
 
+---
+
+# Business Impact
+
+This automation transformed a repetitive accounts payable workflow into a standardized, repeatable process.
+
+### Impact
+
+* Reduced manual invoice entry by automatically extracting invoice data from PDF documents.
+* Standardized vendor invoice information before accounting system import.
+* Produced consistent upload-ready Excel files for downstream accounting processes.
+* Reduced opportunities for manual data entry errors.
+* Improved processing speed for recurring vendor invoices.
+* Created a repeatable workflow that could be executed consistently regardless of the user.
+* Reduced time spent preparing invoice and clearing files for import.
+
+Although exact processing times varied depending on invoice volume, the automation significantly reduced manual effort while improving consistency across the accounts payable process.
+
+---
+
+## Key Design Decisions & Lessons Learned
+
+Developing this project reinforced several important principles of finance automation.
+
+### Separate Data Extraction from Data Transformation
+
+The workflow was intentionally divided into distinct stages. First, invoice data was extracted from PDF documents. Then the extracted data was cleaned, standardized, and transformed into the required accounting upload format. Separating these responsibilities made the workflow easier to maintain and extend.
+
+### Standardize Before Import
+
+Rather than generating upload files directly from extracted invoice data, the process standardized every field before creating the final Excel output. This reduced inconsistencies and simplified downstream processing.
+
+### Design Around Business Processes
+
+The goal was never simply to extract text from PDFs. The real objective was to automate an accounts payable workflow. Every design decision focused on reducing repetitive accounting work rather than demonstrating technical features.
+
+### Build Repeatable Processes
+
+Recurring financial processes benefit from consistency more than speed alone. Creating standardized outputs helped ensure reliable processing each time the automation was executed.
+
+### Protect Data Quality
+
+Financial data requires accuracy. The workflow emphasized predictable formatting and structured output so accounting staff could review and import invoice information with confidence.
+
+### What I Would Improve Today
+
+If I were rebuilding this project today, I would:
+
+* Add OCR support for scanned invoices.
+* Support multiple vendor invoice layouts through configurable templates.
+* Store vendor-specific parsing rules in configuration files rather than code.
+* Add automated exception reporting for invoices that could not be parsed.
+* Generate detailed processing logs and audit reports.
+* Integrate directly with ERP or accounting system APIs where available instead of producing intermediate Excel files.
+* Incorporate AI-assisted document understanding to improve handling of previously unseen invoice formats.
+
+---
+
 ## Lessons Learned
 
 While building this project I improved my understanding of:
