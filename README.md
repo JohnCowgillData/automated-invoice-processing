@@ -197,4 +197,4 @@ Portfolio case study. Source code is not included due to employer confidentialit
 
 ## Professional Context
 
-This project demonstrates my approach to solving business problems through automation. Rather than automating a single task, the solution transformed a repetitive accounts payable workflow into a structured, repeatable process that reduced manual effort while improving consistency and data quality.
+This project reflects my approach to finance automation: understand the accounting workflow, standardize the underlying data, automate repetitive tasks, and produce reliable outputs that reduce manual effort while improving consistency and data quality.
