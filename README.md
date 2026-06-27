@@ -16,7 +16,7 @@ The workflow was designed to reduce manual invoice entry, standardize vendor-spe
 
 This automation transformed a repetitive accounts payable workflow into a standardized, repeatable process.
 
-### Impact
+### Key Results
 
 * Reduced manual invoice entry by automatically extracting invoice data from PDF documents.
 * Standardized vendor invoice information before accounting system import.
