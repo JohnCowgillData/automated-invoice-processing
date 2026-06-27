@@ -30,7 +30,7 @@ The workflow was designed to reduce manual invoice entry, standardize vendor-spe
 
 # Business Impact
 
-This automation transformed a repetitive accounts payable workflow into a standardized, repeatable process.
+This automation transformed a repetitive, manually intensive accounts payable workflow into a standardized, repeatable process that improved efficiency, consistency, and data quality.
 
 ### Key Results
 
