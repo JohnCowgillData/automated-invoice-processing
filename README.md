@@ -102,3 +102,13 @@ Portfolio case study. Screenshots and documentation are included to demonstrate 
 ## Professional Context
 
 This project reflects my experience combining accounting operations with automation. It demonstrates how Python and Excel-based workflows can improve finance processes, reduce repetitive work, and create cleaner data for accounting teams.
+
+## Lessons Learned
+
+While building this project I improved my understanding of:
+
+- PDF parsing challenges
+- Data validation
+- Accounting workflow automation
+- Exception handling
+- Creating reusable automation for finance teams
